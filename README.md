@@ -31,7 +31,10 @@ var placeholders = {
   '}': noncharacters[1]
 };
 
+// the string with characters to replace
 var str = 'This is a template: {name}';
+
+// actually replace the characters
 Object.keys(placeholders).forEach(function(ch) {
   str = str.replace(ch, placeholders[ch]);
 });
