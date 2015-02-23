@@ -2,7 +2,7 @@
 
 > 34 non-character code points (labeled <not a character>), that are set aside and guaranteed to never be used for a character. Perfect to use for placeholders or temporary replacements during string transformations.
 
-See the wikipedia [article on non-characters][wiki].
+See the wikipedia [article on non-characters][wiki]. Also, I used [regenerate](https://github.com/mathiasbynens/regenerate) from [mathiasbynens](https://github.com/mathiasbynens) to generate the range of characters. 
 
 ## Install with [npm](npmjs.org)
 
