@@ -1,7 +1,7 @@
 {
   "name": "noncharacters",
   "description": "34 non-character code points (labeled <not a character>), that are set aside and guaranteed to never be used for a character. Perfect to use for placeholders or temporary replacements during string transformations.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/jonschlinkert/noncharacters",
   "author": {
     "name": "Jon Schlinkert",
